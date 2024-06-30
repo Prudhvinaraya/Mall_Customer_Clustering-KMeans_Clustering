@@ -4,9 +4,7 @@ The project directory includes data files (raw and processed), a Jupyter noteboo
 ## Project Structure
 ```plaintext
 Mall_Customer_Segmentation/
-├── data/                   # Directory for raw and processed data files
-│   ├── raw_data/           # Raw data files
-│   └── processed_data/     # Processed data files
+├── data/                   # Directory for  data files
 ├── notebooks/              # Jupyter notebooks for analysis and modeling
 │   └── Mall_Customer_Segmentation.ipynb  # Main notebook with all code and visualizations
 ├── results/                # Directory for results including images
