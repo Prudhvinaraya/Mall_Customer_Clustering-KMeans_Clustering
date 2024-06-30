@@ -13,3 +13,21 @@ Mall_Customer_Segmentation/
 ├── requirements.txt        # List of dependencies
 └── .gitignore              # Specifies files and directories to ignore in the Git repository
 
+
+## Project Overview
+This project aims to segment customers based on their purchasing behavior using clustering techniques. Customer segmentation helps in understanding customer behavior, which can be leveraged to improve marketing strategies and customer services. The analysis and modeling are carried out in the Jupyter notebook `Mall_Customer_Segmentation.ipynb`.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+To run this project, you'll need to have Python installed along with the necessary libraries. You can install the required libraries using:
+
+```bash
+pip install -r requirements.txt
